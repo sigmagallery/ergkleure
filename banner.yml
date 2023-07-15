@@ -1,15 +1,13 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: Kleure
+description: Abstract art, colorful, unique. - by ERGKleure
+image: https://gateway.ipfs.io/ipfs/bafkreihz77wsjrdvmqobddqh6olbnwygkceztrkjlec4z4mm57qjwpysf4
 mintAddresses:
-  - 
+  - 9fwNZ8dFZ78XvTSf9Nos9cox7zH2Xn9zZ713RfuXdJsq7hU4ekE
+  - 9gxNaKT1VyAN29mLwFhNWHCKw4N6fRrMtfwj5qGte6vwjnb6Gbw
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/ERGkleure
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://ergkleure.com/
     icon: fa-solid fa-globe fa-fw
