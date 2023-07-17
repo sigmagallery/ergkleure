@@ -14,3 +14,6 @@ collections:
 - label: Ergo Developers
   data: ergodevelopers.yml
   image: https://gateway.ipfs.io/ipfs/bafybeign3nuuaqv63z2dn7kxfgkx6uc7xwofzoeqshal3nu3vd5irn6lti
+- label: Ergo 2 Top 10
+  data: ergo2top10.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeidhrzuqirgyeuyf44ycjgwyp5vfy22me7yt4lapyfhj3me5prkc5y
