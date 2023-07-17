@@ -1,5 +1,16 @@
 collections:
 - label: circle
   data: circle.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeiczkxq7l7dsigvqrsyzazq56jmja3vxyt2q4y2b2ne7igwtyxdfjy
 - label: Kleure
   data: kleure.yml
+  image: https://gateway.ipfs.io/ipfs/bafkreihz77wsjrdvmqobddqh6olbnwygkceztrkjlec4z4mm57qjwpysf4
+- label: Ergo Series
+  data: ergoseries.yml
+  image: https://gateway.ipfs.io/ipfs/bafkreib4q4ttc6mwttod3osusclgltqfdj2o6v3exvqc4uabg5eiyfzgd4
+- label: Ergo Miners
+  data: ergominers.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeigdkyqb77a7pbol5d5dwpfa6v2yh74pailg5rwbol3og74e2zenja
+- label: Ergo Developers
+  data: ergodevelopers.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeign3nuuaqv63z2dn7kxfgkx6uc7xwofzoeqshal3nu3vd5irn6lti
