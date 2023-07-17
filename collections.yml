@@ -1,3 +1,5 @@
 collections:
+- label: circle
+  data: circle.yml
 - label: Kleure
   data: kleure.yml
