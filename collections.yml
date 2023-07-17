@@ -1,5 +1,5 @@
 collections:
-- label: circle
+- label: Circle
   data: circle.yml
   image: https://gateway.ipfs.io/ipfs/bafybeiczkxq7l7dsigvqrsyzazq56jmja3vxyt2q4y2b2ne7igwtyxdfjy
 - label: Kleure
