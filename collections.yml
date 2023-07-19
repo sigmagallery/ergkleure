@@ -11,6 +11,7 @@ collections:
 - label: Ergo Miners
   data: ergominers.yml
   image: https://gateway.ipfs.io/ipfs/bafybeigdkyqb77a7pbol5d5dwpfa6v2yh74pailg5rwbol3og74e2zenja
+  format: video
 - label: Ergo Developers
   data: ergodevelopers.yml
   image: https://gateway.ipfs.io/ipfs/bafybeign3nuuaqv63z2dn7kxfgkx6uc7xwofzoeqshal3nu3vd5irn6lti
