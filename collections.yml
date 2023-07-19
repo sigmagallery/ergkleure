@@ -6,16 +6,20 @@ collections:
 - label: Kleure
   data: kleure.yml
   image: https://gateway.ipfs.io/ipfs/bafkreihz77wsjrdvmqobddqh6olbnwygkceztrkjlec4z4mm57qjwpysf4
+  tokenId: 4edfc4ac3144f5ccf6a01f88df0c7979dec5d5bb899e019cffc8fe8af3bf558a
 - label: Ergo Series
   data: ergoseries.yml
   image: https://gateway.ipfs.io/ipfs/bafkreib4q4ttc6mwttod3osusclgltqfdj2o6v3exvqc4uabg5eiyfzgd4
+  tokenId: f321b7faaf42865222922063d89cdfa6e59e5aaf7aa3caa3c846452ffa67a941
 - label: Ergo Miners
   data: ergominers.yml
   image: https://gateway.ipfs.io/ipfs/bafybeigdkyqb77a7pbol5d5dwpfa6v2yh74pailg5rwbol3og74e2zenja
-  format: gif
+  tokenId: 00fe608d98db04f1585c844af6d2679f08589ee8a6ec055fa86da946c3291879
 - label: Ergo Developers
   data: ergodevelopers.yml
   image: https://gateway.ipfs.io/ipfs/bafybeign3nuuaqv63z2dn7kxfgkx6uc7xwofzoeqshal3nu3vd5irn6lti
+  tokenId: 59b1ccb927ccb1e42ae2ca31f8555afd6eedda30d2740ad596c554f07a7a2a42
 - label: Ergo 2 Top 10
   data: ergo2top10.yml
   image: https://gateway.ipfs.io/ipfs/bafybeidhrzuqirgyeuyf44ycjgwyp5vfy22me7yt4lapyfhj3me5prkc5y
+  tokenId: 667164efb5a83995a1fa8b3c7c9efef1dab62bb082621f4a5b22ed28a7da2c8c
