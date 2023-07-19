@@ -1,20 +1,20 @@
 collections:
 - label: Circle
   data: circle.yml
-  image: https://img1.sigma.gallery/ergkleure/circle/4b701c49b43368d8b2892f3a0adafd5c91382d96dba3b85d4333eb44e17e09a7.webp
+  image: https://gateway.ipfs.io/ipfs/bafybeiczkxq7l7dsigvqrsyzazq56jmja3vxyt2q4y2b2ne7igwtyxdfjy
 - label: Kleure
   data: kleure.yml
-  image: https://img1.sigma.gallery/ergkleure/kleure/4edfc4ac3144f5ccf6a01f88df0c7979dec5d5bb899e019cffc8fe8af3bf558a.webp
+  image: https://gateway.ipfs.io/ipfs/bafkreihz77wsjrdvmqobddqh6olbnwygkceztrkjlec4z4mm57qjwpysf4
 - label: Ergo Series
   data: ergoseries.yml
-  image: https://img1.sigma.gallery/ergkleure/ergo-series/1f884dc8ca125b8a236d1b987995bd9240048e360934390511aa5c5473f20947.webp
+  image: https://gateway.ipfs.io/ipfs/bafkreib4q4ttc6mwttod3osusclgltqfdj2o6v3exvqc4uabg5eiyfzgd4
 - label: Ergo Miners
   data: ergominers.yml
-  image: https://img1.sigma.gallery/ergkleure/ergo-miners/3a9eb88d8aaad79225b710f040b35377d90ab75c2162863aac80e0aac451e962.webp
+  image: https://gateway.ipfs.io/ipfs/bafybeigdkyqb77a7pbol5d5dwpfa6v2yh74pailg5rwbol3og74e2zenja
   format: gif
 - label: Ergo Developers
   data: ergodevelopers.yml
-  image: https://img1.sigma.gallery/ergkleure/ergo-developers/59b1ccb927ccb1e42ae2ca31f8555afd6eedda30d2740ad596c554f07a7a2a42.webp
+  image: https://gateway.ipfs.io/ipfs/bafybeign3nuuaqv63z2dn7kxfgkx6uc7xwofzoeqshal3nu3vd5irn6lti
 - label: Ergo 2 Top 10
   data: ergo2top10.yml
-  image: https://img1.sigma.gallery/ergkleure/ergo-2-top-10/763da3111817c518209724ce2214f9d3fad754fb232e152598e30cfcbfa5f487.webp
+  image: https://gateway.ipfs.io/ipfs/bafybeidhrzuqirgyeuyf44ycjgwyp5vfy22me7yt4lapyfhj3me5prkc5y
