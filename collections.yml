@@ -18,3 +18,6 @@ collections:
 - label: Ergo 2 Top 10
   data: ergo2top10.yml
   image: https://img1.sigma.gallery/ergkleure/ergo-2-top-10/763da3111817c518209724ce2214f9d3fad754fb232e152598e30cfcbfa5f487.webp
+- label: Ergo Manifesto
+  data: ergomanifesto.yml
+  image: https://img1.sigma.gallery/ergkleure/ergo-2-top-10/763da3111817c518209724ce2214f9d3fad754fb232e152598e30cfcbfa5f487.webp
