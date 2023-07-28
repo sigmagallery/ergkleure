@@ -112,6 +112,7 @@ nfts:
   description: Ergo Miners by @ERGkleure | https://Ergkleure.com
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibmdp2nmvatyet2gc6r3yg2tnu26gcyzoe7rc5yg6laxeh4n73bii
+  format: gif
 - tokenId: df68654090de12e40139a0b0c04e3fe2d0bdfa08f3b5d68dc513677a223cb2a3
   name: Ergo Miners
   description: Ergo Miners by @ERGkleure | https://Ergkleure.com
